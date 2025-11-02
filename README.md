@@ -1,4 +1,4 @@
-# Digit 7 - Music Explorer
+# Music Explorer
 
 **Proyek Ujian Tengah Semester (UTS)**
 
@@ -18,16 +18,15 @@ Aplikasi web pencarian musik, album, dan artis yang dibangun menggunakan **React
 
 Fitur utama yang diimplementasikan untuk memenuhi kriteria wajib meliputi:
 
-| Fitur | Kriteria CPMK | Bobot |
-| :--- | :--- | :--- |
-| Form Pencarian dengan 5 Input, Validation | CPMK0501: Form Implementation | 12% |
-| Tabel Dinamis dengan Artwork, Track Name, Artist, Price | CPMK0501: Table Implementation | 12% |
-| CSS Styling Responsif (Grid/Flexbox, Media Queries) | CPMK0501: CSS Styling | 21% |
-| Functional Components (Minimal 4), useState, useEffect, Props | CPMK0502: React Implementation | 20% |
-| Modern JavaScript (Arrow Functions, async/await, Destructuring) | CPMK0502: Modern JavaScript | 20% |
-| API Integration (Fetch Data, Loading State, Error Handling) | CPMK0502: API Integration | 10% |
-| Audio Preview Player dan Playlist Builder dengan localStorage | Fitur Wajib | |
-
+| Fitur | 
+| :--- | 
+| Form Pencarian dengan 5 Input|
+| Tabel Dinamis dengan Artwork|
+| CSS Styling Responsif (Grid/Flexbox, Media Queries) |
+| Functional Components (Minimal 4), useState, useEffect, Props |
+| Modern JavaScript (Arrow Functions, async/await, Destructuring)| 
+| API Integration (Fetch Data, Loading State, Error Handling) |
+| Audio Preview Player dan Playlist Builder dengan localStorage | 
 ---
 
 ## 🚀 Instalasi dan Menjalankan Proyek
