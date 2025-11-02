@@ -14,7 +14,7 @@
 
 ## 🎶 Deskripsi Proyek
 
-Aplikasi web pencarian musik, album, dan artis yang dibangun menggunakan **ReactJS** dan **iTunes Search API**. Proyek ini bertujuan untuk memenuhi semua kriteria UTS mata kuliah [Pengembangan Aplikasi Web RB].
+platform musik digital yang memungkinkan pengguna menjelajah dan membeli lagu. Fitur utamanya mencakup pencarian musik dengan filter berdasarkan kata kunci, tanggal rilis, dan jenis konten. Yang menarik, platform ini menyediakan fitur "Tambah Playlist" yang berfungsi seperti sistem favorit, memungkinkan pengguna menyimpan lagu-lagu pilihan mereka ke dalam playlist pribadi. Pada bagian "Playlist Saya", pengguna dapat melihat koleksi lagu yang telah mereka simpan, lengkap dengan informasi harga, preview 30 detik, dan opsi untuk mengelola playlist. Setiap lagu dalam playlist juga menampilkan jumlah putaran, memberikan insight tentang lagu yang paling sering didengarkan oleh pengguna..
 
 Fitur utama yang diimplementasikan untuk memenuhi kriteria wajib meliputi:
 
