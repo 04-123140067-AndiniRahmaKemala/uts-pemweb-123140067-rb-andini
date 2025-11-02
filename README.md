@@ -46,7 +46,7 @@ Pastikan Anda sudah menginstal **Node.js (LTS)** di komputer Anda.
     ```bash
     npm run dev
     ```
-    Aplikasi akan berjalan di `http://localhost:5174/` (atau *port* lain yang tersedia).
+    Aplikasi akan berjalan di http://localhost:5173
 
 ---
 
