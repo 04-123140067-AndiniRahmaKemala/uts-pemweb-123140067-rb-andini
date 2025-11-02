@@ -50,7 +50,7 @@ Pastikan Anda sudah menginstal **Node.js (LTS)**.
 
 ---
 
-* **Link Aplikasi:** https://uts-pemweb-123140067-rb-andini-4ytrj4z0a-andinirahmas-projects.vercel.app
+* **Link Aplikasi:** https://uts-pemweb-123140067-rb-andini.vercel.app/
   
 * **Screenshot Aplikasi:** <img width="1759" height="873" alt="image" src="https://github.com/user-attachments/assets/77fa2f86-7110-4097-806c-1b0d65fb99a8" />
 <img width="1759" height="874" alt="image" src="https://github.com/user-attachments/assets/2d1b195d-209a-4cd6-82f7-e245e95d635e" />
