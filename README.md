@@ -2,7 +2,7 @@
 
 **Proyek Ujian Tengah Semester (UTS)**
 
-## Informasi Penulis
+## Informasi 
 
 | Kunci | Nilai |
 | :--- | :--- |
