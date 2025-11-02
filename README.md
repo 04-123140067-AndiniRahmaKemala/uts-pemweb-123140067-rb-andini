@@ -58,5 +58,5 @@ Pastikan Anda sudah menginstal **Node.js (LTS)** di komputer Anda.
 | README Documentation | 2 | README lengkap dengan nama, NIM, deskripsi, cara instalasi, link deployment, screenshot. |
 | Vercel Deployment | 4 | Aplikasi berhasil di-deploy dan berfungsi dengan baik. |
 
-* **Link Aplikasi:** [Masukkan Link Aplikasi Vercel Anda di sini setelah di-deploy]
+* **Link Aplikasi:** https://uts-pemweb-123140067-rb-andini-4ytrj4z0a-andinirahmas-projects.vercel.app
 * **Screenshot Aplikasi:** [Tambahkan *Screenshot* aplikasi Anda di sini, setelah selesai]
