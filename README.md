@@ -59,4 +59,6 @@ Pastikan Anda sudah menginstal **Node.js (LTS)** di komputer Anda.
 | Vercel Deployment | 4 | Aplikasi berhasil di-deploy dan berfungsi dengan baik. |
 
 * **Link Aplikasi:** https://uts-pemweb-123140067-rb-andini-4ytrj4z0a-andinirahmas-projects.vercel.app
-* **Screenshot Aplikasi:** [Tambahkan *Screenshot* aplikasi Anda di sini, setelah selesai]
+* **Screenshot Aplikasi:** <img width="1759" height="873" alt="image" src="https://github.com/user-attachments/assets/77fa2f86-7110-4097-806c-1b0d65fb99a8" />
+
+]
