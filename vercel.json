@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "buildCommand": "rm -rf node_modules package-lock.json && npm install --force && npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install --force"
+}
