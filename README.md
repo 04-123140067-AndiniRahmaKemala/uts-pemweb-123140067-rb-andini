@@ -4,7 +4,7 @@
 
 ## Informasi 
 
-| Kunci | Nilai |
+| Keterangan | Nilai |
 | :--- | :--- |
 | **Nama** | Andini Rahma Kemala |
 | **NIM** | 123140067 |
