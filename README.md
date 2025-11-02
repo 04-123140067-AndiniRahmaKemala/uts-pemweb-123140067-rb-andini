@@ -31,7 +31,7 @@ Fitur utama yang diimplementasikan untuk memenuhi kriteria wajib meliputi:
 
 ## 🚀 Instalasi dan Menjalankan Proyek
 
-Pastikan Anda sudah menginstal **Node.js (LTS)** di komputer Anda.
+Pastikan Anda sudah menginstal **Node.js (LTS)**.
 
 1.  **Clone Repository:**
     ```bash
@@ -51,6 +51,7 @@ Pastikan Anda sudah menginstal **Node.js (LTS)** di komputer Anda.
 ---
 
 * **Link Aplikasi:** https://uts-pemweb-123140067-rb-andini-4ytrj4z0a-andinirahmas-projects.vercel.app
+  
 * **Screenshot Aplikasi:** <img width="1759" height="873" alt="image" src="https://github.com/user-attachments/assets/77fa2f86-7110-4097-806c-1b0d65fb99a8" />
 <img width="1759" height="874" alt="image" src="https://github.com/user-attachments/assets/2d1b195d-209a-4cd6-82f7-e245e95d635e" />
 
